@@ -1,6 +1,18 @@
-# 👋 Hi, I'm Saksham Saini
+<!-- Animated Header -->
 
-### 💻 Full Stack Web Developer | B.Tech CSE Student | React • JavaScript • Node.js • MongoDB
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saksham%20Saini&fontSize=50&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;B.Tech+CSE+Student;React+%7C+JavaScript+%7C+Node.js;Building+Real-World+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
+
+---
+
+## 👋 About Me
 
 I'm a Computer Science Engineering student passionate about **Full Stack Web Development, JavaScript, UI/UX Design, and building real-world applications**.
 
@@ -64,17 +76,10 @@ A student-focused platform designed to connect students through campus events an
 - 🗄️ Database Management
 - 🚀 Full Stack Web Development
 
-<!--
-**ZyroX05/ZyroX05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- Animated Footer -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
+</p>
